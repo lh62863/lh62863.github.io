@@ -1,17 +1,17 @@
 # Site settings
 title: Lorem Ipsum - Web Developer
 description: "A blog about lorem ipsum ..."
-baseurl: "/space-jekyll-template" # the subpath of your site
-url: "http://victorvoid.github.io"
+baseurl: "./" # the subpath of your site
+url: "http://lh62863.github.io"
 
 # User settings
-username: lorem ipsum
-user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-disqus_username: loremipsum
+username: li hao
+user_title: lihao - FrontEnd
+email: 1013732827@qq.com
+twitter_username: lh62863
+github_username:  lh62863
+gplus_username:  lh62863
+disqus_username: lh62863
 
 # Build settings
 markdown: kramdown
@@ -45,6 +45,6 @@ projects:
   - name: vim-frontend
     url: https://github.com/victorvoid/vim-frontend
   - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara 
+    url: https://github.com/victorvoid/generator-capybara
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']

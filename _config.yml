@@ -61,8 +61,8 @@ repo: jasper
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:  https://biomadeira.github.io/jasper/
-source_url:      https://github.com/biomadeira/jasper/
+production_url:  https://lh62863.github.io/
+source_url:      https://github.com/lh62863/lh62863.github.io
 
 exclude:
   - README.md

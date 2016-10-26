@@ -1906,10 +1906,7 @@ body:not(.post-template) .post-title {
         margin-top: 0;
     }
 
-    .post-content 
-        font-size: 0.9em;
-        line-height: 1.7em;
-        img {
+    .post-content img {
         padding: 0;
         width: calc(100% + 32px); /* expand with to image + margins */
         min-width: 0;

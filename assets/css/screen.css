@@ -1082,8 +1082,7 @@ body:not(.post-template) .post-title {
 
 /* Keep images centered, and allow images wider than the main
    text column to break out. */
-.
-img {
+.post-content img {
     display: block;
     max-width: 126%;
     height: auto;
@@ -1907,7 +1906,10 @@ img {
         margin-top: 0;
     }
 
-    .post-content img {
+    .post-content 
+        font-size: 0.9em;
+        line-height: 1.7em;
+        img {
         padding: 0;
         width: calc(100% + 32px); /* expand with to image + margins */
         min-width: 0;

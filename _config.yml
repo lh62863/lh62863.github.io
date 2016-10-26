@@ -56,11 +56,11 @@ exclude: [vendor]
 # or "master" otherwise
 safe: false
 lsi: false
-username: biomadeira
-repo: jasper
+username: lh62863
+repo: lh62863
 branch: master
-relative_source: ../jasper/
-destination: ../jasper-pages/
+relative_source: ../lh62863/
+destination: ../lh62863-pages/
 production_url:  https://lh62863.github.io/
 source_url:      https://github.com/lh62863/lh62863.github.io
 
